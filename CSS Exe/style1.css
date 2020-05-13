@@ -1,0 +1,17 @@
+div {
+	border: 1px; margin: 5px; border-style: solid;
+}
+#third {
+	visibility: hidden;
+}
+h1 {
+	visibility:hidden; 
+}
+#second {
+	visibility: hidden;
+}
+#second #sixth{
+	visibility: visible;
+}
+
+
